@@ -1,4 +1,4 @@
-# Quadruped robot leg's trajectory - Matlab 🕷
+# Quadruped robot leg's trajectory - Matlab 🦵
 A graphical user interface that displays the current position of a mechanism that emulates a spider's leg based on the angle of the joints. 
 
 ## Author 👤
@@ -13,6 +13,10 @@ A graphical user interface that displays the current position of a mechanism tha
 * **[proyectoFinal.fig]**: Contains the graphical part of the interface needed to be called by the projectFinal.m file.
 
 * **[proyectoFinal.jpg]**: Reference image used by the GUI.
+
+## Screenshots 📷
+![image](https://user-images.githubusercontent.com/118120048/203214310-e87eeec8-926c-45e2-8325-0ffd4d955faa.png)
+
 
 ## Hiring 🤝🏿
 
